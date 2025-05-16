@@ -1,0 +1,76 @@
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Dashboard.resources
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Resources.resources
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\bin\Debug\PA_Pemvis.exe.config
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\bin\Debug\PA_Pemvis.exe
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\bin\Debug\PA_Pemvis.pdb
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\bin\Debug\PA_Pemvis.xml
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\bin\Debug\System.Memory.dll
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.vbproj.Up2Date
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.exe
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.xml
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.pdb
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.AddProduct.resources
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.EditProduct.resources
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Struk.resources
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Catalog.resources
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Login.resources
+C:\Users\ASUS\source\repos\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Registrasi.resources
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\bin\Debug\PA_Pemvis.exe.config
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\bin\Debug\PA_Pemvis.exe
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\bin\Debug\PA_Pemvis.pdb
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\bin\Debug\PA_Pemvis.xml
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\bin\Debug\System.Memory.dll
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\bin\Debug\System.Numerics.Vectors.dll
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\bin\Debug\System.Buffers.dll
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\bin\Debug\MySql.Data.xml
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.vbproj.AssemblyReference.cache
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.AddProduct.resources
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Catalog.resources
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Dashboard.resources
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.EditProduct.resources
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Login.resources
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Resources.resources
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Registrasi.resources
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Struk.resources
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.vbproj.GenerateResource.cache
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.vbproj.CoreCompileInputs.cache
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.vbproj.Up2Date
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.exe
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.xml
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.pdb
+D:\2. Bagus Setianto Tugas\Smt 4\Pemvis\PA Realll\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.History.resources
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\bin\Debug\PA_Pemvis.exe.config
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\bin\Debug\PA_Pemvis.exe
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\bin\Debug\PA_Pemvis.pdb
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\bin\Debug\PA_Pemvis.xml
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.AddProduct.resources
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Catalog.resources
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Dashboard.resources
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.EditProduct.resources
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.History.resources
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Login.resources
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Resources.resources
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Registrasi.resources
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.Struk.resources
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.vbproj.Up2Date
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.exe
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.xml
+C:\Users\ASUS\Downloads\PA_Pemvis\PA_Pemvis\PA_Pemvis\obj\Debug\PA_Pemvis.pdb
